@@ -1,2 +1,3 @@
-# lite-game-engine-7jul
-A game engine project for modern development workflows
+# Lite Game Engine 7Jul
+
+A game engine project for modern development workflows.
